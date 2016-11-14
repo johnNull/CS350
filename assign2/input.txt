@@ -1,0 +1,5 @@
+cs350sh
+cs350sh.c
+cs350sh.o
+input.txt
+makefile
